@@ -13,10 +13,10 @@ source env/bin/activate
 python3 -m pip install --editable .
 python3 -m pip install sentencepiece
 
-git clone https://oss.navercorp.com/nle-nmt/Covid19NMT.git
-cat Covid19NMT/Covid19/checkpoint_best.pt.part* > Covid19NMT/Covid19/checkpoint_best.pt
+git clone https://github.com/naver/covid19-nmt.git
+cat covid19-nmt/Covid19/checkpoint_best.pt.part* > covid19-nmt/Covid19/checkpoint_best.pt
 
-python interactive.py Covid19NMT/Covid19 --user-dir Covid19NMT/Covid19 --path Covid19NMT/Covid19/checkpoint_best.pt \
+python interactive.py covid19-nmt/Covid19 --user-dir covid19-nmt/Covid19 --path covid19-nmt/Covid19/checkpoint_best.pt \
 -s src -t en --bpe covid19 --buffer-size 1000 --max-tokens 8000 --fp16 \
 < INPUT | grep "^D" | cut -f3 > OUTPUT
 ```
