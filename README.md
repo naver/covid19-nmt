@@ -31,7 +31,7 @@ You can also decode the keyboard inputs interactively (no _INPUT_ and _OUTPUT_) 
 In order to translate in the _medical_ domain, use the option `--medical`
 
 ## More information
-For more information, checkout the [blog post](https://europe.naverlabs.com/blog/)
+For more information, checkout the [blog post](https://europe.naverlabs.com/blog/a-machine-translation-model-for-covid-19-research/)
 
 ### Data & Model
 The model card, with data and architecture & hyperparameter information is [here](modelcard.md)
