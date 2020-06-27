@@ -47,3 +47,6 @@ For remarks or questions, please contact covid19nmt@naverlabs.com .
 The NTM Model is distributed under the CC BY-NC-SA 4.0 License. See [LICENSE_NMT-Model](LICENSE_NMT-Model.txt) for more information.
 
 The modified fairseq modules are distributed under the MIT License.
+
+The Korean-English data set is released under different licenses. Please refer to that [README file](covid_biomed/README.md) for more information.
+

@@ -1,0 +1,258 @@
+In the wake of the spread of coronavirus disease 2019 (hereinafter COVID-19), there is a heightened need to provide guidelines on disinfection to prevent and contain infectious disease transmission in local communities.
+In the event of a confirmed COVID-19 case, it is recommended to entrust cleaning and disinfection work to a professional disinfection service provider.
+This guidance also lays down methods for routine disinfection in local communities (public areas and households) for precautionary purposes to effectively address risks of COVID-19 transmission.
+To provide instructions for safe and prompt disinfection in areas used by COVID-19 patients or their living spaces within public or multi-purpose facilities.
+To assist cleaning and disinfecting staff in selecting proper disinfection methods based on the type and state of objects so as to eradicate pathogens thoroughly and effectively.
+To stipulate precautions for cleaning and disinfection staff to protect their health and safety.
+The legal basis of this guidance is Article 47 of the Infectious Disease Control and Prevention Act and other applicable provisions.
+A recent study found that COVID-19 virus (SARS-CoV-2) can survive on surfaces of objects for hours, even days.
+It is known that COVID-19 can be transmitted through respiratory droplets produced by infected people or by touching with hands the surface of objects and other areas on which these droplets have landed.
+Cleaning and disinfecting the surfaces of objects in spaces where a COVID-19 patient stayed is an effective way to prevent the transmission of SARS-CoV-2 and other viral respiratory diseases.
+Cleaning refers to a process that removes dirt and impurities (including microorganisms) from surfaces.
+Cleaning does not inactivate infectious microorganisms, but reduces their number and, thereby, the risk of infection spreading.
+Disinfecting refers to a process that eliminates microorganisms (except for bacterial spores) from the inanimate environment, generally performed via liquid chemicals or wet pasteurization.
+Killing infectious microorganisms that remain on surfaces after cleaning would further reduce the risk of infection spreading.
+(Disinfection plan) Managers at facilities (hereinafter “managers”) must determine the scope of disinfection and establish a disinfection plan after identifying the movement routes of patients.
+Formulate specific operating procedures** based on allocation of staff, the scope of disinfection, the selection of disinfectants, and the conditions of each facility (or each zone).
+Conduct disinfection according to the movement routes of patients, and if impossible to identify the routes, a disinfection plan should be drawn based on identification of objects and zones that are frequently used and touched by people.
+If the disinfection is entrusted to a professional disinfection service provider, the provider may conduct the formulation of operating procedures.
+Staff in charge of disinfection work should receive training on operating procedures and infection prevention.
+The training should include (1) instructions on properly wearing and removing personal protective equipment (PPE), (2) correct ways to wash or disinfect hands, and (3) guidance on monitoring of symptoms after the completion of disinfection work (such as fever, cough, shortness of breath) and actions to be taken following the onset of these symptoms.
+The staff in charge must wear PPE when cleaning or disinfecting.
+PPE consists of disposable double gloves (with the rubber outer glove), hygiene masks, protective coveralls (or disposable waterproof long-sleeved gowns or disposable waterproof aprons), goggles (or face shields), and shoe covers (or rubber boots).
+Equipment used for disinfection should be disposable or used exclusively for one purpose, wherever possible.
+In the case of cleaning equipment that can be reused after washing, disinfect it using an appropriate disinfectant and dry it before storage.
+The criteria for reopening a disinfected facility for use will be determined taking into account the characteristics of each type of disinfectant used, the purposes of the facility, etc.
+Cleaning and disinfection staff must check the hazard information of disinfectants before use.
+Sufficient ventilation should be guaranteed during the entire disinfection process.
+(Required items) Disinfectants, water, a change of clothes, containers exclusively for medical waste, buckets, disposable cloths (or towels), disposable gloves, hygiene masks, mops, etc.
+(PPE) For routine disinfection, it is necessary to put on disposable gloves and hygiene masks (KF94 or its equivalent) and add disposable waterproof long-sleeved gowns, goggles, boots, etc. depending on the scope of infection and contamination.
+It is recommended to use disinfectants approved by the Ministry of Environment (MOE) for coronavirus and products reported to the MOE as disinfectants* recognized by the World Health Organization (WHO), European Centre for Disease Prevention and Control (ECDC), etc.
+Sodium hypochlorite (a.k.a. household bleach), alcohol (70% ethanol), quarternary ammonium compounds, peroxygen compounds, etc.
+It is imperative to comply with the specified usage amount, methods, and precautions for each product.
+Select a disinfectant after checking information thereof, including whether it is approved by or reported to the MOE.
+Check the official website Chorok-Nuri (http://ecolife.me.go.kr) for disinfectant information.
+When using an environmental disinfectant, make sure to check its expiration date, follow recommendations given by the manufacturer* (such as safe usage and precautions for each product) and prepare a dilute solution according to the manufacturer's instructions.
+When using a sodium hypochlorite solution, refer to precautions.
+Prepare the solution by diluting it just before disinfection. The processing time should last for at least 10 minutes.
+Select disinfectants suitable for intended use when disinfection involves (1) direct application to the human body (drugs or quasi-drugs), (2) disinfection of food or utensils/containers that can come into contact with food (food additives).
+The method of spraying the disinfectant should not be applied to the disinfection of surfaces because it increases the risk of generation and inhalation of infectious aerosols, and its disinfecting effect is insufficient due to the unclear scope of contact between the disinfectant and applied surfaces.
+If the recommended usage method is specified in the instructions of a disinfectant as spraying, spray the disinfectant on a disposable cloth (towel) until it gets wet and wipe surfaces using it.
+Make sure to check the hazard information of the disinfectant and use it cautiously.
+Do not mix different types of disinfectants, keep away from flammable materials, and use in well-ventilated areas.
+As the disinfection effect may decrease over time, dilute only the required amount and use it immediately. Do not store the remaining amount and discard it immediately.
+Keep the disinfectant out of the reach of infants and children, and pay attention to storage locations and methods.
+Wear disposable gloves, waterproof long-sleeved gowns, goggles (or face shields), hygiene masks, boots, etc. in compliance with the proper method of wearing PPE.
+Do not touch your eyes, nose or mouth during disinfection while wearing PPE.
+Wear goggles to keep your hands away from your eyes.
+If gloves or masks become dirty or damaged, take them off safely and put on new ones.
+The proper order: Remove gloves → Wash hands with soap and water → Remove the mask → Wash hands with soap and water → Wear a new mask → Wear new gloves
+After the completion of cleaning and disinfection, be careful not to contaminate your body parts and surroundings with pathogens that are present in your PPE when removing the equipment.
+Upon removing each piece of protective equipment, be cautious not to contaminate the surroundings.
+After discarding all disposable PPE used for disinfection in a medical waste container, seal it tightly, follow waste disposal procedures, and wash your hands with soap and water.
+Reusable goggles can be reused after disinfection according to the manufacturer's guidelines.
+Report to a public health center if any worker who performed cleaning and disinfection subsequently develops a fever or respiratory symptoms within 14 days after disinfection.
+Mark the confirmed contamination area and seal contaminated materials before conducting cleaning and disinfecting of surfaces in a space (zone) used by a patient.
+This marking and sealing is to prevent further exposal to contamination.
+Leave the windows open for ventilation before, during, and after cleaning and disinfecting.
+Ventilate for up to 24 hours before cleaning and disinfecting.
+Before cleaning and disinfecting, wear personal protective equipment (PPE) such as hygiene mask (KF94 or its equivalent) and gloves, and during disinfection avoid touching your face (eyes, nose, and mouth).
+Prepare a dilute solution of disinfectant and disinfection equipment.
+Use MOE-reported and -approved disinfectants such as diluted solutions of sodium hypochlorite, alcohol (70% ethanol).
+After the disinfection of patient-use areas, the criteria for resuming the use of each facility can be adjusted according to the characteristics of each type of disinfectant used, the purpose of the facility, etc.
+Replace the bed linens, curtains, etc. with new or disinfected ones.
+Different facilities require different types of disinfection equipment, and therefore the right type of equipment should be used as the situation requires.
+Non-disposable equipment must be disinfected properly before reuse.
+When visibly soiled, surfaces should be cleaned using detergent and water before disinfection.
+(Disinfecting surfaces) Clean the walls within arm's reach and all frequently-touched surfaces with a cloth (fabric, etc.) wet with the prepared disinfectant, leave it for 10 minutes at least, and then wipe it with a cloth (fabric, etc.) dampened with clean water.
+High-touch objects and surfaces: Elevator buttons, handrails, door knobs, armrests, backrests, desks, light control devices, keyboards, switches, blinds, and other surfaces with frequent human contact.
+For surfaces made of metal or other materials which should avoid the use of dilute solutions of sodium hypochlorite, use alcohol (70% ethanol).
+The method of spraying the disinfectant should not be applied to the disinfection of surfaces because it increases the risk of generation and inhalation of infectious aerosols, and its disinfecting effect is insufficient due to the unclear scope of contact between the disinfectant and applied surfaces.
+To prevent the formation or splashing of aerosols, it is recommended to apply continuous wiping for cleaning and disinfecting surfaces.
+The use of compressed air is not allowed due to the risk of aerosolizing infectious substances.
+Clean the surface first with a disposable paper towel, etc. dampened with disinfectant, and then discard it into a container exclusively for medical waste.
+The presence of foreign materials on a surface diminishes the disinfection effect.
+Patient-use areas, and surfaces or articles contaminated with vomitus, excretion, or secretion: 1,000 ppm dilute solution of sodium hypochlorite.
+Surfaces or articles contaminated by blood spill: 10,000 ppm dilute solution of sodium hypochlorite.
+Thoroughly clean environmental surfaces using a clean cloth (or a towel) moistened with disinfectant or with a disinfectant wipe.
+Avoid using a vacuum cleaner or other cleaning methods that are likely to aerosolize infectious substances.
+Clean surfaces with a cloth (fabric, etc.) moistened with the prepared disinfectant, leave it for 10 minutes at least, and then wipe it with a cloth (fabric, etc.) moistened with clean water.
+(Disinfecting floors) Use a mop to clean the floor repeatedly from one end to the other with the prepared disinfectant.
+Do not move from any area that has not been disinfected
+to prevent contamination of the disinfected area.
+Sweep down the floor repeatedly to avoid generating or splashing aerosols.
+(Bathroom) Use disinfectant to clean all surfaces in the bathroom that can be touched by hand, including the toilet.
+(Cleaning and disinfecting equipment) In principle, mop heads used for floor disinfection, cloths used for surfaces disinfection, etc. must be discarded into containers exclusively for medical waste.
+Non-porous equipment used for one space must be disinfected before being used for another space.
+Articles that are difficult to dispose must be disinfected by being immersed into a dilute solution of disinfectant for 30 minutes.
+Buckets should be immersed into a dilute solution of disinfectant (or 1,000 ppm sodium hypochlorite dilute solution) for 10 minutes or longer, or rinsed with hot water to disinfect.
+Waste materials produced during disinfection must be discarded into containers exclusively for medical waste.
+After disinfecting public and multi-purpose facilities to prevent infection, the ensuing waste must be double-sealed, disinfected and burned in a public incinerator or similar facility.
+Shower and change clothes immediately after cleaning and disinfecting.
+(Follow-up management for staff) If a worker who engaged in cleaning and disinfection subsequently develops a fever or respiratory symptoms, instruct the person to stay in a designated area within the facility and contact a public health center or the KCDC call center (1339 or area code+120).
+Household goods (dishware, drinking glasses, cups, eating utensils, bedding, etc.) must be used separately for each individual and not be shared. After use, clean them thoroughly with detergent and hot water.
+For further information on specific disinfection procedures, refer to III. Disinfection of Patient-use Areas (Zones) and Appendix 2. Disinfection Methods in a Patient’s Home Setting.
+When handling patients’ laundry, wear a hygiene mask and disposable gloves, both of which must be discarded after each use. Reusable gloves must not be reused for other household chores.
+Clean bed linens, pillowcases, blankets, curtains and other washable fabric items in a washing machine using warm water and detergent (or disinfectant).
+When putting laundry in the washing machine, wear the appropriate PPE, including a hygiene mask, gloves, and an apron.
+For warm-water washing, use 70°C water and general detergent for 25 minutes at least.
+For lower-temperature washing (less than 70°C), use the detergent or disinfectant appropriate for lower temperature washing.
+Products containing sodium hypochlorite or peroxide (a laundry sanitizer for fabric) may release hazardous gases and cause fabric damage and other problems during high-temperature washing, so use them at a temperature of 60°C or below according to the manufacturer’s instructions.
+If there is a dryer machine, it is recommended to dry at 80°C for two hours.
+For items that are difficult to wash such as a mattress or a carpet, entrust them to a professional disinfection service provider for proper disinfection, or carry out steam (high temperature) sterilization.
+Use disposable or single-use laundry hampers or similar cart. Otherwise, nondisposable carts should be disinfected before reuse.
+Disinfect the surfaces of clothes hangers after use.
+When laundry is soiled with blood or body fluids to an extent that cannot be cleaned properly, discard them.
+After laundry, remove disposable gloves, etc., and wash hands thoroughly with soap and water.
+If a cleaning and disinfecting worker develops a fever or respiratory symptoms within 14 days after laundry, instruct the person to stay in a designated area and contact a public health center or the KCDC call center (1339 or area code +120).
+Patients’ clothes and other linen products from medical institutions should be handled in compliance with instructions outlined in COVID-19 Infection Prevention and Control at Medical Institutions.
+Persons who carry out cleaning and disinfection work should wear the appropriate personal protective equipment (PPE).
+Wear disposable gloves and hygiene masks at all times and, if necessary, disposable long-sleeved waterproof gowns (or waterproof aprons), goggles (or face shields), etc.
+Facility managers should provide a sufficient amount of cleaning and disinfecting products and PPE (disinfectant, paper towels, masks, etc.) to the employee in charge of cleaning and disinfection.
+The method of spraying the disinfectant should not be applied to the disinfection of surfaces, because it increases the risk of generation and inhalation of infectious aerosols, and its disinfecting effect is insufficient due to the unclear scope of contact between the disinfectant and applied surfaces.
+As sodium hypochlorite can cause skin damage, eczema, headaches triggered by unpleasant odor, etc., it is recommended to keep windows open and use a ventilator when this substance is used.
+Entrance doors, elevators, etc. of each building should be cleaned and disinfected on a more frequent basis.
+For areas frequently used during commuting hours, etc., the employee in charge of cleaning and disinfection should wipe door handles and elevator buttons with cloth sufficiently saturated with disinfectant.
+The criteria for reopening for use can be adjusted according to the characteristics of each type of disinfectant used and the purpose of the disinfected area.
+The virus will be destroyed after disinfection, but the precautions for each disinfectant should be taken into account in deciding the timing for reopening for use as it cannot be applied across the board due to the different characteristics of each product.
+In the case of disinfection using a sodium hypochlorite dilute solution (1,000 ppm or more), the area can be used after adequate ventilation.
+It is recommended to restrict its use until the day after disinfection and to start its use only after adequate ventilation.
+Immediately disinfect the surfaces in environment contaminated with blood, body fluids, secretion or excrement.
+Disinfect environment surrounding the isolation room where a patient is staying at least on a daily basis and high-touch surfaces more often.
+Make the dilute solution of disinfectant using a PET bottle in a well-ventilated place. (1) Pour 10 ml of 5% solution into a PET bottle. (2) Add cold water up to 500ml, close the bottle and mix it well.
+Disinfect high-touch places and bathroom surfaces while ventilating.
+Metal surfaces are disinfected by alcohol (70% ethanol). (1) Clean with a paper towel moistened with disinfectant and leave it for 10 minutes at least and wipe with a water-saturated paper towel.
+After use, put disposable tools into a waste disposal bag, spray disinfectant into it, seal the bag and discard it.
+After cleaning and disinfecting, wash hands with soap and water.
+Disinfect high-touch surfaces like a door handle and a bathroom at least once daily in home setting and public places such as multi-purpose facilities. Note that highertouch surfaces should be disinfected more frequently.
+If a surface is soiled with vomitus or other body fluids, clean with absorbent disposable towels before disinfection.
+Sodium hypochlorite (the main active ingredient in household bleach) is a strong and effective disinfectant that denatures protein in microorganisms, thereby killing bacteria, fungi and viruses.
+Sodium hypochlorite is widely used as a disinfectant due to its rapid effectiveness and low price.
+Therefore, diluted sodium hypochlorite is recommended for use to disinfect the environment.
+(Disadvantages) Caution should be exercised in the use of sodium hypochlorite as it irritates mucous membranes, skin and respiratory tract and decomposes under heat and light, thereby causing it to easily react with other chemicals.
+If not properly used, this substance may result in a reduced disinfection effect and an increased risk of injury.
+The excessive use of sodium hypochlorite would pose environmental pollution risks.
+Prepare all necessary instruments and equipment, such as sodium hypochlorite for household use, measuring tools, containers and personal protective equipment (PPE).
+Use cold water when diluting, as hot water decomposes the active ingredient of sodium hypochlorite, thereby negating the disinfection effect.
+Use a measuring spoon or measuring cup to accurately gauge the amount of sodium hypochlorite added.
+Thoroughly wash hands using soap and water after disinfection.
+If sodium hypochlorite enters the eyes, immediately rinse with water for at least 15 minutes and consult a physician.
+Do not mix sodium hypochlorite with other household detergents as their combined use may reduce the disinfection effect and cause dangerous chemical reactions.
+(Example) When sodium hypochlorite is mixed with acidic detergents such as those used for toilet cleaning, this can produce a toxic gas and thereby cause accidents or injuries.
+If necessary, use detergents first and rinse thoroughly with water before using sodium hypochlorite as a disinfectant.
+As undiluted sodium hypochlorite emits a toxic gas when exposed to sunlight, it should be stored in a cool, shaded place, out of the reach of children.
+As sodium hypochlorite decomposes over time, purchase recently-produced sodium hypochlorite to ensure its effect.
+When sodium hypochlorite is left unused, its decomposition increases over time.
+To ensure effective disinfection, use diluted sodium hypochlorite within 24 hours after diluting and discard unused portions after disinfection.
+As the presence of organic materials on a surface diminishes the effect of sodium hypochlorite, such materials should be completely removed before disinfecting.
+After the first confirmed case of the coronavirus disease 2019 (COVID-19) was reported in the Republic of Korea on January 20, 2020, the national infectious disease alert level has been elevated to the highest level, from “alert” to “serious,” since February 24, 2020, following the confirmation of community transmission.
+Pursuant to the relevant laws and regulations, we have designed and implemented a set of procedures and actions to prevent and contain the spread of COVID-19 in public and multi-purpose facilities.
+Examples of Public Facilities: Schools, workplaces, facilities for youths and families, daycare centers, kindergartens, social welfare facilities, postnatal care centers, medical institutions, etc.
+Examples of Multi-purpose Facilities: Performance halls, sports facilities, religious facilities, shopping malls (large-scale retail stores, markets, department stores, etc.), movie theaters, large-scale restaurants, public bathhouses, etc.
+This guidance outlines the strategies and actions that will be implemented by representatives or managers of the above-mentioned facilities (hereinafter “managers”) for effective prevention and control of COVID-19 within their facilities.
+The symptoms of COVID-19 are fever, fatigue, cough, shortness of breath, pneumonia, severe acute respiratory syndromes, etc. Most infected people experience mild symptoms, but those with underlying health conditions are likely to be at higher risk of developing a severe illness.
+Other symptoms include sore throat, headache, phlegm, hemoptysis, nausea, and diarrhea.
+Respiratory droplets (saliva) produced when a person infected with COVID-19 coughs or sneezes allow the virus to infiltrate another person’s mucous membranes in the respiratory system, thereby causing the infection.
+When droplets produced by an infected person land on objects, surfaces, etc., the virus can be transmitted to those who touch these objects or surfaces with their hands and then touch their eyes, nose, mouth, and other body areas.
+COVID-19 is highly contagious and can be transmitted even at early stages of infection with mild symptoms.
+The scale of transmission can become much larger when people come into close contact with each other in confined spaces.
+Managers of public and multi-purpose facilities where a large number of people gather or stay should establish and implement a “COVID-19 management system” as well as a coordination mechanism with relevant agencies.
+Measures must be implemented to protect employees, users and visitors from COVID-19, enhance early detection of the disease, and prevent community transmission.
+Specific measures include ensuring good hygiene practices, and routine cleaning, disinfection and ventilation; improving working conditions; regularly monitoring for fever and other symptoms; excluding individuals with such symptoms from work.
+Any confirmed case must be immediately reported to a local public health center and necessary measures must follow suit to prevent further contraction.
+Facilities should establish and implement action plans for COVID-19 preparedness and response, which include strategies on effective management of their employees, users, visitors, and facility environments, and protocols for action in case of an outbreak.
+To this purpose, facilities should designate specific persons who are responsible for COVID-19 infection control (called “Inspection Manager”) in order to ensure accountability in disease prevention and mitigation efforts.
+Also, it is highly advised for facilities to assign responsibilities to monitor employees’ symptoms, file reports of confirmed cases, locate hygiene supplies in facilities, etc. to specific persons.
+It is essential that facilities install and maintain a COVID-19 emergency hotline with relevant agencies (i.e. public health centers and medical institutions at city-, province-, and town(Si/Do/Gun/Gu)-levels) for an effective and imminent response to possible and probable COVID-19 cases and other emergency situations.
+Specifically, relevant agencies refer to competent departments at each facility, public health centers, fire stations and medical institutions (COVID-19 screening stations and referral hospitals in close distance).
+Facilities should provide their employees, users and visitors with information about COVID-19 and conduct education sessions on the code of conduct on proper handwashing, cough etiquette, etc.
+It is necessary to notify facility users and visitors that their access to the facilities can be limited if they have a fever or respiratory symptoms, and display such notification in common areas.
+Also important is to exhibit a set of promotional materials* in common areas within the facilities, including precaution guidelines for prevention of COVID-19 transmission, which cover handwashing, cough etiquette, etc.
+Facilities should place hand wash, such as liquid soaps and hand sanitizers (containing at least 70% alcohol), paper towels, etc. in sufficient quantity on sinks (those with nonmanual faucets, etc. preferred) in restrooms and other areas in the facilities.
+Waste baskets and trash cans should be placed at several locations in the facilities to allow the immediate disposal of tissues used for coughing.
+Cleaning, disinfection and ventilation should be increased in common areas within facilities, commuter buses, dormitories, etc.
+Particular attention should be paid to enhance disinfection for areas and objects that are frequently touched with hands.
+As to door handles, handrails, various touch devices, desks, tables, chairs, telephones, and computer keyboards, disinfection must be implemented at least once a day, while entrance doors, elevators and similar public-using objects should be disinfected on a more frequent basis.
+Also, it is necessary to regularly purify air and ventilate in the facilities.
+Facilities must conduct temperature checks for fever at entry points and in the office.
+Temperature and respiratory symptom screening of employees and others should be conducted twice a day.
+For facility users and visitors, temperature checks should be offered when they enter the facilities.
+A list of users and visitors which contains their personal details, contact information, temperature check results, etc. should be kept at the facilities.
+Employees or users who have fever or respiratory symptoms should not be permitted to work or use the facilities.
+Workers with a fever or respiratory symptoms will stay at home and refrain from making contact with others or leaving home, while monitoring their health for three to four days.
+If the symptoms persist, they should consult with the KCDC call center or a public health center (☎1339 or ☎area code +120), and a screening station should be the first place to visit for medical treatment.
+If there is an ongoing fever of 38℃ or higher, or the symptoms do not improve, (1) call the KCDC call center or a public health center (☎1339 or ☎area code +120) for advice or (2) visit a screening station first for medical treatment.
+Use your own vehicle and wear a mask when visiting a medical institution.
+Inform the medial staff about your overseas travel history and any contact with a person showing respiratory symptoms.
+No employee who recently travelled overseas will be permitted to work in office for two weeks, and working from home (or telecommuting) and other cautionary measures should be recommended.
+Example: A person who entered Korea at 15:00 on March 6 will be prohibited from work in office until March 20 (14 days from the day of arrival).
+Children's absence from daycare centers, kindergartens, schools, etc. will be processed as attendance, and isolated children should be provided with temporary daycare. Other measures should be followed as needed.
+When staying at home, employees should refrain from making contact with others and going outside the house, and keep monitoring themselves for any fever or respiratory symptoms.
+If any suspected symptoms appear, call a public health center or the KCDC call center 1339 for advice.
+Employers or facility managers should grant leave or other forms of relief to workers who are excluded from work and ensure that these workers face no disadvantage.
+Employers, facility managers and others in relevant positions should actively provide advanced notice that workers are required to stay home if they develop a fever or respiratory symptoms.
+Those engaged in social care services, such as care workers, caregivers, home helpers, etc., should be thoroughly managed and allowed to work only after 14 days from the day of their arrival if they have an overseas travel record.
+They are prohibited from providing services until 14 days from their arrival.
+If there is a suspected patient of COVID-19, an isolation area where the suspected patient can stay should be secured within the facilities.
+The designated isolation space must be well-ventilated with doors that can be closed, and access to this space must be restricted to those who wear medical masks.
+Avoid physical contact including handshakes, etc. with other employees, visitors, etc.
+Improve the working environment, including enlarging the space between employees’ seats in the office (keeping a distance of at least 1 meter).
+Adopt alternate start/end times for work and lunch hours.
+Use flexible work schedules and adjust lunch hours.
+Facility managers should immediately report to a local public health center if a suspected patient is identified.
+The suspected patient should wear a mask and stay in a separated space until transferred to a screening station.
+After undergoing a test, the suspected patient should be placed in home quarantine until the test result comes out.
+After the suspected patient is transferred to a public health center, the place where the patient stayed should be properly disinfected with disinfectants such as alcohol, sodium hypochlorite, etc.
+As of 0:00, 27 May 2020, the total number of confirmed cases is 11,265 (including 1,221 imported cases), of which 10,295 cases have been discharged from isolation. Newly confirmed cases are 40 in total.
+Regarding epidemiological investigation on the 2 reported suspected cases (one 11-year-old boy and one 4-year-old girl) of Multisystem Inflammatory Syndrome in Children and Adolescents (MIS-C) associated with COVID-19, while both children presented with clinical characteristics of MIS-C, both tested negative in SARS-CoV-2 PCR tests conducted by their respective hospitals.
+In light of the recent rise in local transmissions related to clubs, bars, karaoke rooms, and after-school private academies, KCDC urged people to refrain from social gathering or visiting any enclosed/confined/crowded spaces that are frequented by many people.
+People who cannot avoid visiting an enclosed/crowded space for an essential reason should carefully follow personal hygiene measures including keeping 2 meters of distance from other people, wearing a facemask, avoiding handshakes, washing hands, and not touching eyes, nose, or mouth with their hands.
+Persons belonging to high-risk groups (including elderly, pregnant women, persons with chronic illness) should especially avoid any poorly ventilated enclosed space frequented by many people.
+Stay home for 3-4 days if you get sick.
+Keep a distance of two arms’ length between you and other people.
+Wash your hands for 30 seconds. Cough/sneeze into your sleeve.
+Ventilate your space at least twice a day and disinfect regularly.
+Keep in touch with family and friends while maintaining physical distancing.
+In business establishments, all persons should wear a facemask when using indoor break rooms, changing rooms, or other publicly shared indoor areas. Such areas should not be used by multiple people at the same time.
+Indoor smoking rooms should be prohibited and outdoor areas should be utilized instead.
+Commute buses should have hand sanitizers in place and disinfect frequently touched surfaces such as handles.
+Cafeterias should operate in time shifts and install dividers between seats or have people sit in one line or in alternating arrangement to avoid sitting face-to-face while eating.
+Anyone who has come in close contact with a large number of unspecified persons in an enclosed/confined space such as clubs or bars need to be tested at a screening clinic through public health center or 1339 call center.
+KCDC urged people to visit a screening clinic and get tested especially if two or more persons within a household or social group develop COVID-19 suspected symptoms.
+In light of the opening of schools today for high school grade 2 (11th grade), middle school grade 3 (9th grade), elementary school grades 1-2, and kindergarten students, KCDC requested students and school staff to closely follow the infectious disease prevention measures.
+KCDC requested workers who worked at Coupang Logistics Center during the period starting on 12 May should get tested (wearing mask mandatory) and self-quarantine. Also, if there is student or a school staff among family, they should stop going to school.
+If there is a healthcare worker or social worker among family, they should limit work.
+Long-term foreign stayers in Korea have recently been found to have re-entered the nation being infected with the novel coronavirus (COVID-19), and this has raised the need to strengthen the requirements for re-entry into the ROK from high-risk countries for COVID-19 infection.
+In response to this situation, the Ministry of Justice (MOJ) has stepped up the requirements for re-entry into Korea effective from June 1, 2020, by temporarily suspending the re-entry permit exemption and requiring all long-term stayers seeking re-entry into Korea to submit a written diagnosis, in an effort to curb travel from COVID-19 affected regions abroad and prevent inflow of the new disease from overseas.
+In response to recent reports of pediatric cases of inflammatory syndrome associated with COVID-19 in children and teens in Europe and the US, KCDC has decided to implement and operate a surveillance and investigation system for “Multisystem Inflammatory Syndrome in Children (MIS-C) associated with COVID-19” starting 25 May.
+If a confirmed case is found in a school, all students, teachers, and staff of the school will be instructed to put on an MFDS-approved facemask and return home. Local municipal government will conduct epidemiological investigation, disinfection, restriction of use of the affected facility, and other necessary infection control measures.
+To protect other people in your community from possible infection, do not leave your quarantine location (i.e. your home) as much as possible.
+Daycare centers for children will be closed through April 5, while preschools and elementary, middle, and high schools have postponed their opening date to April 6 from March 2.
+Employees at senior care facilities, etc., are excused from work for 14 days if they show respiratory symptoms such as a cough and fever or have a history of travel to countries of COVID-19 outbreaks. The entry of visitors is also restricted.
+Services directly related to the daily lives of vulnerable groups, such as lunch for children of low-income households and activity assistance for those with disabilities, continue to be offered even when related offline social welfare facilities are closed.
+Research indicates that children and adolescents are just as likely to become infected as any other age group and can spread the disease.
+Evidence to date suggests that children and young adults are less likely to get severe disease, but severe cases can still happen in these age groups.
+Children and adults should follow the same guidance on self-quarantine and self-isolation if there is a risk they have been exposed or are showing symptoms.
+It is particularly important that children avoid contact with older people and others who are at risk of more severe disease.
+Remember that masks are not a substitute for other, more effective ways to protect yourself and others against COVID-19 such as frequently washing your hands, covering your cough with the bend of elbow or tissue and maintain a distance of at least 1 meter from others.
+Several dogs and cats (domestic cats and tigers) in contact with infected humans have tested positive for COVID-19.
+In a few instances, the minks that were infected by humans have transmitted the virus to other people.
+While some western, traditional or home remedies may provide comfort and alleviate symptoms of mild COVID-19, there are no medicines that have been shown to prevent or cure the disease.
+WHO does not recommend self-medication with any medicines, including antibiotics, as a prevention or cure for COVID-19.
+However, there are several ongoing clinical trials of both western and traditional medicines.
+WHO is coordinating efforts to develop vaccines and medicines to prevent and treat COVID-19 and will continue to provide updated information as soon research results become available.
+If you have minor symptoms, such as a slight cough or a mild fever, there is generally no need to seek medical care.
+Stay at home, self-isolate and monitor your symptoms. Follow national guidance on self-isolation. However, if you live in an area with malaria or dengue fever it is important that you do not ignore symptoms of fever.
+When you attend the health facility wear a mask if possible, keep at least 1 metre distance from other people and do not touch surfaces with your hands.
+If it is a child who is sick help the child stick to this advice.
+Seek immediate medical care if you have difficulty breathing or pain/pressure in the chest.
+If possible, call your health care provider in advance, so he/she can direct you to the right health facility.
+People can catch COVID-19 from others who have the virus.
+The disease spreads primarily from person to person through small droplets from the nose or mouth, which are expelled when a person with COVID-19 coughs, sneezes, or speaks.
+These droplets are relatively heavy, do not travel far and quickly sink to the ground.
+People can catch COVID-19 if they breathe in these droplets from a person infected with the virus. This is why it is important to stay at least 1 meter away from others.
+These droplets can land on objects and surfaces around the person such as tables, doorknobs and handrails.
+People can become infected by touching these objects or surfaces, then touching their eyes, nose or mouth.
+Transmission of active COVID-19 (virus that can cause infection) through breast milk and breastfeeding has not been detected to date.
+Building on the response to recent outbreaks of Ebola virus disease, SARS-CoV and MERS-CoV, the R&D Blueprint has facilitated a coordinated and accelerated response to COVID-19, including an unprecedented program to develop a vaccine, research into potential pharmaceutical treatments and strengthened channels for information sharing between countries.
+The global COVID-19 outbreak is leading to an acute and drastic shortage of essential supplies, including personal protective equipment, diagnostics and clinical management.
