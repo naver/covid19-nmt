@@ -16,7 +16,7 @@ python3 -m pip install sentencepiece
 git clone https://github.com/naver/covid19-nmt.git
 cat covid19-nmt/Covid19/checkpoint_best.pt.part* > covid19-nmt/Covid19/checkpoint_best.pt
 
-python interactive.py covid19-nmt/Covid19 --user-dir covid19-nmt/Covid19 --path covid19-nmt/Covid19/checkpoint_best.pt \
+fairseq-interactive covid19-nmt/Covid19 --user-dir covid19-nmt/Covid19 --path covid19-nmt/Covid19/checkpoint_best.pt \
 -s src -t en --bpe covid19 --buffer-size 1000 --max-tokens 8000 --fp16 \
 < INPUT | grep "^D" | cut -f3 > OUTPUT
 ```
