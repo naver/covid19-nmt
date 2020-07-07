@@ -20,7 +20,7 @@
 |--------|--------|----------------|----------------|
 |French|40.03 ([NLE UGC](https://arxiv.org/abs/1910.14589))|35.56|41.70 (NLE UGC)|
 |German|40.98 ([FAIR @WMT19, single model](https://github.com/pytorch/fairseq/blob/master/examples/wmt19/README.md))|28.82|32.01 ([FAIR @WMT19, single model](https://github.com/pytorch/fairseq/blob/master/examples/wmt19/README.md))|
-|Spanish||43.41|43.03|
+|Spanish||43.03||
 
 We do not report comparison for Sp-En for newstest, as the models reported are outdated (the best entry achieved 30.4). 
 Spanish, Italian and Korean were added later to the IWSLT challenge, and were not part of the competition at that time
