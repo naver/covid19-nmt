@@ -29,7 +29,8 @@ You can also decode the keyboard inputs interactively (no _INPUT_ and _OUTPUT_) 
 
 #### Notes:
 - The source language `src` is not a placeholder, but a literal "src" (this is only to tell Fairseq it should use `dict.src.txt` as source dictionary).
-- If you get a pickling error when running this command, this is probably because of a corrupted checkpoint file. In this case, try downloading the files manually from [here](Covid19/checkpoint_best.pt.part1?raw=true) and [here](Covid19/checkpoint_best.pt.part2?raw=true) (and then concatenate them).
+- If you get a pickling error when running this command, this is probably because of a corrupted checkpoint file. In this case, try installing [git-lfs](https://git-lfs.github.com/) and pull again, or try downloading the files manually from [here](Covid19/checkpoint_best.pt.part1?raw=true) and [here](Covid19/checkpoint_best.pt.part2?raw=true) (and then concatenate them).
+- The preprocessing steps are done in [`Covid19/__init__.py`](Covid19/__init__.py)
 
 ## Domain-specific translation
 In order to translate in the _medical_ domain, use the option `--medical`
