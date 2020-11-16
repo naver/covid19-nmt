@@ -36,7 +36,7 @@ You can also decode the keyboard inputs interactively (no _INPUT_ and _OUTPUT_) 
 In order to translate in the _medical_ domain, use the option `--medical`
 
 ## More information
-For more information, checkout the [blog post](https://europe.naverlabs.com/blog/a-machine-translation-model-for-covid-19-research/)
+For more information, checkout the [blog post](https://europe.naverlabs.com/blog/a-machine-translation-model-for-covid-19-research/) or read the [paper](https://openreview.net/pdf?id=U5luH7UiQw6)
 
 ### Data & Model
 The model card, with data and architecture & hyperparameter information is [here](modelcard.md)
@@ -47,6 +47,25 @@ BLEU scores on standard benchmarks (together with reference points) are [here](b
 
 ## Contact
 For remarks or questions, please contact covid19nmt@naverlabs.com .
+If you use this work, please cite
+
+```
+@inproceedings{berard-etal-2020-multilingual,
+    title = "A Multilingual Neural Machine Translation Model for Biomedical Data",
+    author = "B{\'e}rard, Alexandre  and
+      Kim, Zae Myung  and
+      Nikoulina, Vassilina  and
+      Park, Eunjeong Lucy  and
+      Gall{\'e}, Matthias",
+    booktitle = "Proceedings of the 1st Workshop on {NLP} for {COVID}-19 (Part 2) at {EMNLP} 2020",
+    month = dec,
+    year = "2020",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/2020.nlpcovid19-2.16",
+    abstract = "We release a multilingual neural machine translation model, which can be used to translate text in the biomedical domain. The model can translate from 5 languages (French, German, Italian, Korean and Spanish) into English. It is trained with large amounts of generic and biomedical data, using domain tags. Our benchmarks show that it performs near state-of-the-art both on news (generic domain) and biomedical test sets, and that it outperforms the existing publicly released models. We believe that this release will help the large-scale multilingual analysis of the digital content of the COVID-19 crisis and of its effects on society, economy, and healthcare policies. We also release a test set of biomedical text for Korean-English. It consists of 758 sentences from official guidelines and recent papers, all about COVID-19.",
+}
+```
 
 ## License
 The NTM Model is distributed under the CC BY-NC-SA 4.0 License. See [LICENSE_NMT-Model](LICENSE_NMT-Model.txt) for more information.
