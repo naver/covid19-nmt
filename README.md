@@ -14,9 +14,10 @@ python3 -m pip install --editable .
 python3 -m pip install sentencepiece
 
 git clone https://github.com/naver/covid19-nmt.git
-cat covid19-nmt/Covid19/checkpoint_best.pt.part* > covid19-nmt/Covid19/checkpoint_best.pt
+cd covid19-nmt
+cat model/checkpoint_best.pt.part* > model/checkpoint_best.pt
 
-fairseq-interactive covid19-nmt/Covid19 --user-dir covid19-nmt/Covid19 --path covid19-nmt/Covid19/checkpoint_best.pt \
+fairseq-interactive model --user-dir model --path model/checkpoint_best.pt --sentencepiece-model model/spm.model \
 -s src -t en --bpe covid19 --buffer-size 1000 --max-tokens 8000 --fp16 \
 < INPUT | grep "^D" | cut -f3 > OUTPUT
 ```
@@ -29,8 +30,8 @@ You can also decode the keyboard inputs interactively (no _INPUT_ and _OUTPUT_) 
 
 #### Notes:
 - The source language `src` is not a placeholder, but a literal "src" (this is only to tell Fairseq it should use `dict.src.txt` as source dictionary).
-- If you get a pickling error when running this command, this is probably because of a corrupted checkpoint file. In this case, try installing [git-lfs](https://git-lfs.github.com/) and pull again, or try downloading the files manually from [here](Covid19/checkpoint_best.pt.part1?raw=true) and [here](Covid19/checkpoint_best.pt.part2?raw=true) (and then concatenate them).
-- The preprocessing steps are done in [`Covid19/__init__.py`](Covid19/__init__.py)
+- If you get a pickling error when running this command, this is probably because of a corrupted checkpoint file. In this case, try installing [git-lfs](https://git-lfs.github.com/) and pull again, or try downloading the files manually from [here](model/checkpoint_best.pt.part1?raw=true) and [here](model/checkpoint_best.pt.part2?raw=true) (and then concatenate them).
+- The preprocessing steps are done in [`model/__init__.py`](model/__init__.py)
 
 ## Domain-specific translation
 In order to translate in the _medical_ domain, use the option `--medical`
@@ -72,5 +73,5 @@ The NTM Model is distributed under the CC BY-NC-SA 4.0 License. See [LICENSE_NMT
 
 The modified fairseq modules are distributed under the MIT License.
 
-The Korean-English data set is released under different licenses. Please refer to that [README file](covid_biomed/README.md) for more information.
+The Korean-English data set is released under different licenses. Please refer to that [README file](test_sets/README.md) for more information.
 
