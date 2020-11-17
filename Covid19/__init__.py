@@ -25,22 +25,20 @@ lower, title, upper, other = range(4)
 case_symbols = [None, '<T>', '<U>', None]
 
 
-@register_bpe('covid19')
 class Covid19BPE(object):
 
     @staticmethod
     def add_args(parser):
         # fmt: off
-        parser.add_argument('--sentencepiece-vocab', type=str,
-                            help='path to sentencepiece vocab')
+        # stays here for back-compatibility with older version of fairseq
+        parser.add_argument('--sentencepiece-model', type=str,
+                            help='path to sentencepiece model')
         parser.add_argument('--medical', action='store_true',
                             help='automatically add the <medical> tag to translate text in the biomedical domain')
         # fmt: on
 
     def __init__(self, args):
-        if args.sentencepiece_vocab is None:
-            args.sentencepiece_vocab = os.path.join(args.data.split(':')[0], 'spm.model')
-        vocab = file_utils.cached_path(args.sentencepiece_vocab)
+        vocab = file_utils.cached_path(args.sentencepiece_model)
         try:
             import sentencepiece as spm
             self.sp = spm.SentencePieceProcessor()
@@ -144,3 +142,21 @@ class Covid19BPE(object):
 
         x = ' '.join(w for w in tokens if w not in case_symbols)
         return x.replace(' ', '').replace('▁', ' ').strip()
+
+
+try:
+    from dataclasses import dataclass, field
+    from fairseq.dataclass import FairseqDataclass
+
+    @dataclass
+    class Covid19BPEConfig(FairseqDataclass):
+        sentencepiece_model: str = field(
+            default="???", metadata={"help": "path to sentencepiece model"}
+        )
+        medical: bool = field(
+            default=False, metadata={"help": "automatically add the <medical> tag to translate text in the biomedical domain"}
+        )
+    Covid19BPE = register_bpe('covid19', dataclass=Covid19BPEConfig)(Covid19BPE)
+except:
+    # support for older versions of fairseq
+    Covid19BPE = register_bpe('covid19')(Covid19BPE)
